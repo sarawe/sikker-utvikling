@@ -203,7 +203,7 @@ def login():
 </details>
 
 
-## Printing av brukernavn
+## Onboarding av brukere
 Koden under er en del av onboardingen av nye kunder. Den tar imot navnet til brukeren, konverterer det til store bokstaver og viser en melding til brukeren. Ser du hvorfor denne koden er usikker og hvordan vi kan gjøre den sikrere?
 
 ```
