@@ -48,7 +48,7 @@ app.get('/', (req,res)=>{
 
 
 ## Gjenoppretting av passord
-Bollebakeriet.no har følgende metode for gjenoppretting av passord. Hvis brukeren trykker på knappen for glemt passord genereres et token som sendes i en lenke på e-post til brukeren. URL-en for å gjenopprette passord blir dermed noe ala ``` https://bollebakeriet.no/glemt-passord?token=51ee1d86fce7df4c7376032a897f5134 ```
+Bollebakeriet.no har følgende metode for gjenoppretting av passord. Hvis brukeren trykker på knappen for glemt passord genereres et token som sendes i en lenke på e-post til brukeren. URL-en for å gjenopprette passord blir dermed noe ala ``` https://bollebakeriet.no/glemt-passord?token=f054bbd2f5ebab9cb5571000b2c50c02 ```
 
 Koden for gjenoppretting ser slik ut:
 
